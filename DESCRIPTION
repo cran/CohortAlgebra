@@ -2,8 +2,8 @@ Package: CohortAlgebra
 Type: Package
 Title: Use of Interval Algebra to Create New Cohort(s) from Existing
         Cohorts
-Version: 0.2.1
-Date: 2024-06-02
+Version: 0.3.0
+Date: 2024-06-03
 Authors@R: c(
     person("Gowtham", "Rao", email = "rao@ohdsi.org", role = c("aut", "cre")),
     person("Observational Health Data Science and Informatics", role = c("cph"))
@@ -24,8 +24,8 @@ Language: en-US
 URL: https://github.com/OHDSI/CohortAlgebra
 BugReports: https://github.com/OHDSI/CohortAlgebra/issues
 NeedsCompilation: no
-Packaged: 2024-06-02 12:27:30 UTC; admin_grao9
+Packaged: 2024-06-03 18:32:46 UTC; admin_grao9
 Author: Gowtham Rao [aut, cre],
   Observational Health Data Science and Informatics [cph]
 Repository: CRAN
-Date/Publication: 2024-06-02 12:40:02 UTC
+Date/Publication: 2024-06-04 09:48:51 UTC

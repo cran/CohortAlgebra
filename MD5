@@ -1,6 +1,6 @@
-f8222ea8155c099c4fbd92389ad6eceb *DESCRIPTION
+0e68851cda3f5830da5bbb5d8ac30fa4 *DESCRIPTION
 2759f9e4d8763c277c3bead314b1e6bf *NAMESPACE
-4aa60c1b5e31d9f4ac2b6b5f653af813 *NEWS.md
+bf652b8db5c4b6a397bfe018234e86f3 *NEWS.md
 144325d841c7daf82d6b0cbdc3ac257d *R/AppendCohortTables.R
 e043777e46a94d011dbf42c74c1ce252 *R/CohortAlgebra-package.R
 8d6923ebf5d7e38c791f8792211593f7 *R/CohortAlgebra.R
@@ -18,9 +18,9 @@ c31cecd25e66243dba888dec83b8f5b0 *R/ReindexCohortsByDays.R
 acde57c20767c3d30c9401fb450dc840 *build/vignette.rds
 e56eb6cd4d8cc03fd949aea0034532fd *inst/doc/HowToUseCohortAlgebraRPackage.R
 8a449beef73bdad83aab9183fd57205f *inst/doc/HowToUseCohortAlgebraRPackage.Rmd
-9ad66617d427aea7855a4a7ab7b285b0 *inst/doc/HowToUseCohortAlgebraRPackage.html
+4a3d169302519d1dfeab8bf0df65a134 *inst/doc/HowToUseCohortAlgebraRPackage.html
 776f99238c369c0462c5fe41abc606bd *inst/sql/sql_server/CopyCohorts.sql
-c210a10db625ebc6440c4d70904dff76 *inst/sql/sql_server/EraFyCohorts.sql
+3db16d273012c54ba9fcd7a1199ca35c *inst/sql/sql_server/EraFyCohorts.sql
 da9744c499c487e871c1ab1acff1fa45 *inst/sql/sql_server/IntersectCohorts.sql
 7f8e00586c97f9ce2dff64ab517d3397 *inst/sql/sql_server/MinusCohorts.sql
 86fd86a4f978268677a30b448956d7b3 *inst/sql/sql_server/ReindexCohorts.sql
